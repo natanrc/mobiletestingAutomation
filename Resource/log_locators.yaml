@@ -1,0 +1,14 @@
+title: //*[contains(@text, "VERSION")]
+txt_email: com.loginmodule.learning:id/textInputEditTextEmail
+txt_password: com.loginmodule.learning:id/textInputEditTextPassword
+btn_login: com.loginmodule.learning:id/appCompatButtonLogin
+
+text_title: //*[contains(@text, "NewLine")]
+text_hello: //*[contains(@text, "Hello")]
+text_account: //*[contains(@text, "Accounts")]
+error_login: com.loginmodule.learning:id/snackbar_text
+error_email: //*[contains(@text, "Valid")]
+
+
+
+

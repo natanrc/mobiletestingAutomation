@@ -1,0 +1,8 @@
+txt_link_register: com.loginmodule.learning:id/textViewLinkRegister
+textname: //*[contains(@text, "Name")]
+txt_name: com.loginmodule.learning:id/textInputEditTextName
+txt_email: com.loginmodule.learning:id/textInputEditTextEmail
+txt_passwrord: com.loginmodule.learning:id/textInputEditTextPassword
+txt_confirm_passw: com.loginmodule.learning:id/textInputEditTextConfirmPassword
+btn_register: com.loginmodule.learning:id/appCompatButtonRegister
+register_success: com.loginmodule.learning:id/snackbar_text
